@@ -4,6 +4,8 @@
 
 Animation scene with SVG/anime.js.
 
+<a href="https://codepen.io/andreystarkov/pen/MJBvXw/">Live demo</a> on codepen.
+
 Usage:
 
 ```
