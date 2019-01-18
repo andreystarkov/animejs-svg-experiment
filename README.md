@@ -18,4 +18,5 @@ Usage:
   npm start
 ```
 
-<b>UPD:</b> Check out about [how it works in 2019](https://github.com/andreystarkov)
+Check out [new animation demo](https://github.com/andreystarkov).
+It's about how it works at 2019.
